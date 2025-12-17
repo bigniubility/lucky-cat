@@ -1,3 +1,7 @@
+# 演示地址
+
+https://suziwen.github.io/lucky-cat/
+
 # 安装步骤
 
 ## 克隆(Fork)当前仓库
